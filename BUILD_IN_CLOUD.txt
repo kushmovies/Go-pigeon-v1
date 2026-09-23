@@ -1,0 +1,3 @@
+Go Pigeon V1 cloud-build package.
+GitHub Actions workflow: .github/workflows/build-apk.yml
+It builds app-debug.apk and uploads it as an artifact.
